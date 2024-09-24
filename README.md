@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamil Wójcicki</h1>
 <h3 align="center">A selfteach passionate of Swift and Swift UI</h3>
-(img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966")
+(img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966](https://dribbble.com/shots/2575134-Frontend-animation/attachments/9372629?mode=media)")
 
 - 🔭 I’m currently working on [Remind Me](https://github.com/KamilWojcicki/RemindMe)
 

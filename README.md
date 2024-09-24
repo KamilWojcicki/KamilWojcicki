@@ -11,6 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kamilwojcicki2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamilwojcicki2000/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/kamil.wisla.njr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kamil.wisla.njr/" height="30" width="40" /></a>
+<a href="https://discord.gg/#0708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0708" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
